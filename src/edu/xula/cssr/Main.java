@@ -28,6 +28,7 @@ public class Main {
         System.out.println("The Teams: " + teamsList);
 
         System.out.println("first push - Lee-RoysDevelopment");
+        System.out.println("second push - JoQDevelopment");
 
 
 
